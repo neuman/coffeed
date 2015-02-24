@@ -1,0 +1,51 @@
+body {
+  font-family: Georgia;
+  line-height: 1.5;
+  font-size: 120%;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: 1px;
+	color: white;
+
+	background: url('../images/coffee-shop.jpg');
+  /* Full Page Background Receipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container {
+  width: 500px;
+  padding: 15px;
+  margin-top: 80px;
+  margin-left: 40px;
+}
+
+h1 {
+  font-family: Verdana; 
+  font-weight: bold;
+	font-size: 44px;
+	margin-bottom: -20px;
+  letter-spacing: 1px;
+}
+
+h2 {
+  font-family: Verdana; 
+	font-size: 29px;
+  line-height: 38px;
+  font-weight: normal;
+  color: #d6a433;
+}
+
+a {
+	color: #d6a433;
+	text-decoration: none;
+}
+
+a:hover {
+  color: #FCD682;
+}
+
+
+
